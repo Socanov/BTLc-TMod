@@ -1,0 +1,297 @@
+Mods: {
+	BTLc: {
+		Projectiles: {
+			BTLcCharging.DisplayName: B T Lc Charging
+			Moswordver.DisplayName: Moswordver
+			DemonHand.DisplayName: 魔之手
+			Magic1.DisplayName: Magic1
+			SingtheWoods.DisplayName: Singthe Woods
+			CopperBullet.DisplayName: Copper Bullet
+			CaidanZuolun.DisplayName: 丢出的彩弹左轮
+			combowcharging.DisplayName: combowcharging
+			LeadBullet.DisplayName: Lead Bullet
+			TinBullet.DisplayName: Tin Bullet
+			DesertGodSword.DisplayName: Desert God Sword
+			MoSword.DisplayName: 刀气
+			wave.DisplayName: wave
+			CrystalProj.DisplayName: Crystal shards
+			FirmFossil.DisplayName: Firm Fossil
+			LifeCrystalshards.DisplayName: Crystal shards
+			SandRock.DisplayName: SandRock
+			MagiccrystalBZ.DisplayName: Magiccrystal B Z
+			PeachwoodSword.DisplayName: 基础道法
+			ScerletExplosiveBomb.DisplayName: 猩红爆弹
+			ScarletExplosiveBomb.DisplayName: Scarlet Explosive Bomb
+			BookofRocks.DisplayName: SandRock
+			BookofRocks2.DisplayName: Bookof Rocks2
+		}
+
+		Buffs: {
+			Curse: {
+				DisplayName: 诅咒
+				Description: 受到诅咒，重病缠身
+			}
+
+			Heartbroken: {
+				DisplayName: 碎心
+				Description: 适得其反，最大生命值减少
+			}
+
+			Penetrate: {
+				DisplayName: 入刺
+				Description:
+					'''
+					 Not affected by defense, slowly lose HP 
+					ouch!
+					'''
+			}
+
+			Speedfaster: {
+				DisplayName: 身法
+				Description: 是纯度极高的武艺！速度提高了！
+			}
+		}
+
+		Items: {
+			CopperBulletItem: {
+				DisplayName: Copper Bullet
+				Tooltip: 所以为什么到了未来还要用大口径的铜质弹丸
+			}
+
+			LeadBulletItem: {
+				DisplayName: Lead Bullet
+				Tooltip: 多么古老的弹药啊
+			}
+
+			TinBulletItem: {
+				DisplayName: Tin Bullet
+				Tooltip: 配合枪使用更佳哦~
+			}
+
+			CrystalBreastPlate: {
+				DisplayName: Crystal BreastPlates
+				Tooltip: 木甲附魔过后的产物
+			}
+
+			HeavyironBreastplate: {
+				DisplayName: heavy iron breastplates
+				Tooltip: 更多的铁，更强的护甲
+			}
+
+			FallingStarArmor: {
+				DisplayName: FallingStar Armor
+				Tooltip: 你的身体微微发光
+			}
+
+			FallingStarFoots: {
+				DisplayName: FallingStar Foots
+				Tooltip: 你走过的地方吸引了无数萤火虫
+			}
+
+			FallingStarHalmet: {
+				DisplayName: FallingStar Halmet
+				Tooltip: 散发出光芒
+			}
+
+			CrystalLeggings: {
+				DisplayName: Crystal Leggings
+				Tooltip: 散发着魔力的光辉
+			}
+
+			HeavyironLeggings: {
+				DisplayName: heavy iron leggings
+				Tooltip: 更多的铁，更大的重量
+			}
+
+			CrystalMagic: {
+				DisplayName: Crystal Glasses
+				Tooltip: 我们至今不知道玩家为什么要把棱镜套在头上,甚至还很好用（？）
+			}
+
+			BambooCloak: {
+				DisplayName: Bamboo breastplate
+				Tooltip: A breastplate made of bamboo is not very defensive
+			}
+
+			BambooHat: {
+				DisplayName: Bamboo Helmet
+				Tooltip: A helmet made of bamboo is not very defensive
+			}
+
+			BambooLeggings: {
+				DisplayName: Bamboo leggings
+				Tooltip: Leggings made of bamboo is not very defensive
+			}
+
+			HeavyironHelmet: {
+				DisplayName: heavy iron helmet
+				Tooltip: 更多的铁，对颈椎更大的压力
+			}
+
+			PasteBoots: {
+				DisplayName: Paste Boots
+				Tooltip:
+					'''
+					移动速度-6%
+					伤害减免+4%
+					寸步难行...
+					'''
+			}
+
+			PasteMask: {
+				DisplayName: Paste Mask
+				Tooltip:
+					'''
+					移动速度-4%
+					伤害减免+6%
+					难以呼吸...
+					'''
+			}
+
+			PasteShirt: {
+				DisplayName: Paste Shirt
+				Tooltip:
+					'''
+					移动速度-10%
+					伤害减免+7%
+					唔,好粘,恶心!
+					'''
+			}
+
+			CrystalSummon: {
+				DisplayName: Crystal Headwear
+				Tooltip: 魔力在头顶盘旋
+			}
+
+			ImpurityMagicCrystal: {
+				DisplayName: Impurity Magic Crystal
+				Tooltip: 从一种未知生命体身上取下的水晶
+			}
+
+			MagicCrystal: {
+				DisplayName: Magic Crystal
+				Tooltip: 闪烁着微光
+			}
+
+			NightIngot: {
+				DisplayName: ��ҹ��
+				Tooltip: ""
+			}
+
+			ApprenticeStaves: {
+				DisplayName: Apprentice Staves
+				Tooltip: 通过操控魔法粒子直接进行攻击
+			}
+
+			DemonHand: {
+				DisplayName: demon hand book
+				Tooltip:
+					'''
+					“这本书似乎封印着一个恶魔，不过谁在乎呢？好用就行”
+					那只看起来像柴犬的兽人如是说到
+					'''
+			}
+
+			SingtheWoods: {
+				DisplayName: Sing the Woods
+				Tooltip:
+					'''
+					绿色能量环绕在周围
+					“吸收自然精华”
+					'''
+			}
+
+			BambooBlunderBuss: {
+				DisplayName: Bamboo blunderbuss
+				Tooltip: 用竹子做火铳真的不会炸膛吗
+			}
+
+			Bonebow: {
+				DisplayName: Bone bow
+				Tooltip: 每诞生一把骨弓，就会有一个骷髅被杀害，没有买卖就没有伤害（bushi）
+			}
+
+			Vinebow: {
+				DisplayName: Vine Bow
+				Tooltip: ""
+			}
+
+			CaidanZuolun: {
+				DisplayName: 彩弹左轮
+				Tooltip:
+					'''
+					究竟是左轮变了心，还是彩弹枪出了轨
+					当连续攻击5次以上时可右键使用特殊功能
+					漫游左轮表示很赞
+					'''
+			}
+
+			IronBlunderBuss: {
+				DisplayName: Iron blunderbuss
+				Tooltip:
+					'''
+					铳口如鸟铳大，可容铅弹三钱
+					————《武备要略》
+					'''
+			}
+
+			Broadsword: {
+				DisplayName: broad sword
+				Tooltip:
+					'''
+					刀把上镶嵌的水晶发着红光
+					右键向前冲刺并附带伤害
+					左键蓄力攻击
+					'''
+			}
+
+			DesertGodSword: {
+				DisplayName: 荒漠神凝剑
+				Tooltip: ""
+			}
+
+			MagiccrystalBZ: {
+				DisplayName: magic crystal whip
+				Tooltip:
+					'''
+					用魔晶做的鞭子，他们好像能自动粘在一起
+					左键蓄力，蓄力时间与鞭子长度成正比
+					'''
+			}
+
+			PeachwoodSword: {
+				DisplayName: peachwood sword
+				Tooltip: 神秘的东方力量
+			}
+
+			Disorder: {
+				DisplayName: Disorder Core
+				Tooltip: 现在，你有能力控制这个世界，但前提是你有能力活下去……
+			}
+
+			ScarletExplosiveBomb: {
+				DisplayName: Scerlet Explosive Bomb
+				Tooltip: 一本法书，记载着神秘的猩红魔法
+			}
+
+			BookofRocks: {
+				DisplayName: Bookof Rocks
+				Tooltip: ""
+			}
+
+			SandStormBow: {
+				DisplayName: Sand Storm Bow
+				Tooltip: ""
+			}
+		}
+
+		NPCs: {
+			SandStormSlime.DisplayName: SandStormSlime
+			ImpurityMagicCrystal.DisplayName: Impurity Magic Crystal
+			LifeCrystalSlime.DisplayName: lifecrystal slime
+			Monstro.DisplayName: Monstro
+			MoonCore.DisplayName: MoonCore
+			StormSlime.DisplayName: StormSlime
+		}
+	}
+}

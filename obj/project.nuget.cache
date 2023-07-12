@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "owSgPaUqh0NYiHDIQm79xbJ7F6LOhwkliqhFovyZQ9URTqPV48jde/kon1P+cMHZnWEMgA/DHuSrrlN5293yXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\BTLc\\BTLc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
